@@ -1,0 +1,27 @@
+{
+  "name": "iteratorjs",
+  "version": "1.0.0",
+  "description": "A simple Iterator class similar to how Rust's",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KanseiKy/IteratorJS.git"
+  },
+  "keywords": [
+    "Iterator",
+    "Array"
+  ],
+  "author": "Ky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KanseiKy/IteratorJS/issues"
+  },
+  "homepage": "https://github.com/KanseiKy/IteratorJS#readme"
+}
