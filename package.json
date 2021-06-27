@@ -1,6 +1,6 @@
 {
-  "name": "iteratorjs",
-  "version": "1.0.0",
+  "name": "itereta",
+  "version": "1.0.1",
   "description": "A simple Iterator class similar to how Rust's",
   "main": "index.js",
   "type": "module",
